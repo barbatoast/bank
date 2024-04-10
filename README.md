@@ -1,4 +1,4 @@
-# bank
+# Bank
 Example CRUD App
 
 ## Database Migration
